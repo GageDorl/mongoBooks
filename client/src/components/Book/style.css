@@ -1,0 +1,16 @@
+.bookContainer{
+    padding:30px;
+    margin: 0 auto;
+    width:90%;
+    text-align:center;
+    border:2px solid lightblue;
+    border-radius:20px;
+}
+.bookImage{
+    display:block;
+    float:left;
+}
+.descriptions{
+    float:right;
+    display:block;
+}
